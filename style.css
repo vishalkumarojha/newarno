@@ -46,6 +46,7 @@ html, body {
     background-color: #dfe6ed;
     overflow: hidden;
     box-shadow: 16px 16px 48px #2e364330;
+    position: fixed; 
   }
   
   .tabs {
